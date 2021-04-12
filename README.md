@@ -22,7 +22,7 @@ Após a realização do cadastro, o sistema deverá calcular a idade e verificar
 Caso o paciente pertença ao grupo de risco o sistema deverá salvar em um arquivo de texto o CEP e a idade do paciente para que essa informação possa ser enviada para a central da Secretaria da Saúde da cidade.
 
 # Tecnologias utilizadas
-## C++
+## C
 
 # Como executar o projeto
 
