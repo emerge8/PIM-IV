@@ -1,8 +1,7 @@
 # Cadastro de pacientes com COVID-19
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/emerge8/PIM-IV/blob/main/LICENSE) 
 
-# Sobre o projeto
-
+# PIM-IV Análise e Desenvolvimento de Sistemas UNIP 2021
 
 O objetivo do projeto será desenvolver um sistema em C (utilizando o codeblocks – disponível de forma gratuita no seguinte link: http://www.codeblocks.org/) que será utilizado pelos hospitais para cadastrar os pacientes que forem diagnosticados com covid-19 e carecem de um acompanhamento e monitoramento.
 
